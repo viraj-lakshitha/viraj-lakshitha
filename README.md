@@ -4,14 +4,18 @@ I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institut
 
 💻 Some of my things
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/viraj-lakshitha/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/viraj-lakshitha/)
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/viraj-lakshitha/)
-[![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)](https://github.com/viraj-lakshitha/)
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/viraj-lakshitha/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/viraj-lakshitha/)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://github.com/viraj-lakshitha/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/viraj-lakshitha/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)]
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]
+[![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)]
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
+[![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)]
+[![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)]
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]
+
 
 😇 Find me on
 
