@@ -7,7 +7,7 @@ I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institut
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/viraj-lakshitha/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/viraj-lakshitha/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/viraj-lakshitha/)
-[![AngularJS](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/viraj-lakshitha/)
+[![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)](https://github.com/viraj-lakshitha/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/viraj-lakshitha/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/viraj-lakshitha/)
