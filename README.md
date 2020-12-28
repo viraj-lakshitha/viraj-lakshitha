@@ -12,9 +12,7 @@ I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institut
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
-[![Sass](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)]
-[![Spring](https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)]
-[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)]
+
 
 
 😇 Find me on
