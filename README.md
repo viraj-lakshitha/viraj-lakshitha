@@ -1,13 +1,13 @@
-### Hi there 👋
+### HELLO WORLD ! 🥇
 
-I'm Viraj Lakshitha Bandara. An undergraduate in Software Engineer at Informatic Institute of Technology affiliated with University of Westminster
+I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institute of Technology affiliated with University of Westminster, and National Sport Personality in Sri Lanka.I am interested in Full Stack Application Devalopment , Artificial Intelligence , Data Science and Web Devalopment related fields.
 
 💻 Some of my things
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://github.com/viraj-lakshitha/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)](https://github.com/viraj-lakshitha/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/viraj-lakshitha/)
-[![AngularJS](https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://github.com/viraj-lakshitha/)
+[![AngularJS](https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white)](https://github.com/viraj-lakshitha/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://github.com/viraj-lakshitha/)
 
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)](https://github.com/viraj-lakshitha/)
