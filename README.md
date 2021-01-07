@@ -23,5 +23,5 @@ I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institut
 <a href="https://www.hackerrank.com/viraj_lakshitha?hr_r=1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 </a>
 <a href="https://dev.to/virajlakshitha">
-  <i class="fab fa-dev" title="virajlakshitha's DEV Community Profile"></i>
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Viraj Lakshitha Bandara's DEV Community Profile" height="30" width="30">
 </a>
