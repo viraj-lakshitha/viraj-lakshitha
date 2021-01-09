@@ -4,14 +4,14 @@ I'm Viraj Lakshitha. An Undergraduate Software Engineer from Informatic Institut
 
 💻 Some of my things
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)]
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)]
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)]
-[![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)]
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)]
-[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)]
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)]
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![AngularJS](https://img.shields.io/badge/-AngularJS-black?style=flat-square&logo=angularjs)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
 
