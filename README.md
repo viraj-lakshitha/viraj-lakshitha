@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Applications**
 
-- 👨‍💻 All of my projects are available at [solo.me/viraj](solo.me/viraj)
+- 👨‍💻 All of my projects are available at [http://virajlakshitha.tk/](http://virajlakshitha.tk/)
 
 - 💬 Ask me about **Java, AngularJS, HTML&CSS, JS, TS**
 
