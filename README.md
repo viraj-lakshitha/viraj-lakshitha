@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Viraj Lakshitha</h1>
 <h3 align="center">Undergraduate, Mentor, Devaloper, Medium Writer</h3>
 <hr>
-- 🔭 I’m currently working on **E-Commerce Web Application**
+- 🔭 I’m currently working on **Computer vision Project**
 
-- 🌱 I’m currently learning **React Native and Deep Learning**
+- 🌱 I’m currently learning **Deep Computer Vision**
 
-- 👯 I’m looking to collaborate on **Full Stack Applications**
+- 👯 I’m looking to collaborate on **Artificial Intelligence Projects**
 
 - 👨‍💻 All of my projects are available at [http://virajlakshitha.tk/](http://virajlakshitha.tk/)
 
