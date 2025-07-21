@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm Viraj Lakshitha Bandara</h1>
-<h3 align="center">Senior Software Engineer | Java (SpringBoot), React, Nest/Next & DevOps | MSc(Reading), BEng(UK)</h3>
+<h1 align="center">Hey there 👋, I'm Viraj Lakshitha Bandara</h1>
+<h3 align="center">Senior Software Engineer | Backend & DevOps Enthusiast | MSc Big Data (Reading)</h3>
 
-<p>
-I'm a senior backend engineer.
-
-<br />
-
-I'm all about crafting next-level SaaS solutions that make life easier for users and businesses alike. From designing smart architectures to rolling out game-changing features, I dive deep into cloud tech and serverless frameworks to make it all happen. Oh, and those CI/CD pipelines? I've turned them into well-oiled machines for faster, smoother deployments.
-
-<br />
-
-When I'm not in the thick of tech projects, I'm helping future engineers crack the code on cloud computing and big data as a research mentor. And because I'm a bit of a data nerd, I'm also leveling up my skills in Big Data Analytics with some intensive graduate studies
+<p align="center">
+  <a href="https://virajbandara.com" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:inforviraj@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/viraj-lakshitha" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/viraj-lakshitha" target="_blank">👨‍💻 GitHub</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viraj-lakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="viraj-lakshitha" /> </p>
+---
 
-- 📫 How to reach me [inforviraj@gmail.com](mailto:inforviraj@gmail.com)
+🚀 **About Me**
 
-- ⚡ Fun fact **Drink :)**
+I’m a senior backend engineer who’s passionate about building scalable SaaS solutions that simplify life for users and teams alike. Whether it's crafting asynchronous systems, optimizing CI/CD pipelines, or diving into cloud-native development, I love building things that just work — and work well.
+
+- 🔧 Architecting scalable systems using **Java (Spring Boot)**, **Node.js (Nest.js)**, and **React**
+- ☁️ Deploying and managing applications with **AWS**, **Azure**, **Docker**, and **Kubernetes**
+- 🔁 Building robust pipelines with **CI/CD**, **Bitbucket Pipelines**, **Jenkins**, and more
+- 🧠 Actively pursuing an **MSc in Big Data Analytics** while mentoring aspiring engineers
+- 📊 Passionate about **cloud computing**, **big data**, and **serverless architecture**
+
+---
+
+📬 **Reach Me**
+
+- 📧 Email: [inforviraj@gmail.com](mailto:inforviraj@gmail.com)
+- 🌐 Website: [virajbandara.com](https://virajbandara.com)
+- 💼 LinkedIn: [viraj-lakshitha](https://linkedin.com/in/viraj-lakshitha)
+
+---
+
+📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viraj-lakshitha&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=viraj-lakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+⚡ **Fun Fact**
+
+I drink code like coffee — and coffee like water ☕🚀
