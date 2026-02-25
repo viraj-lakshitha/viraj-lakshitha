@@ -12,7 +12,7 @@
 
 🚀 **About Me**
 
-I’m a senior backend engineer who’s passionate about building scalable SaaS solutions that simplify life for users and teams alike. Whether it's crafting asynchronous systems, optimizing CI/CD pipelines, or diving into cloud-native development, I love building things that just work — and work well.
+I’m a Lead Engineer who’s passionate about building scalable SaaS solutions that simplify life for users and teams alike. Whether it's crafting asynchronous systems, optimizing CI/CD pipelines, or diving into cloud-native development, I love building things that just work — and work well.
 
 - 🔧 Architecting scalable systems using **Node.js (Nest.js)**, **Java (Spring Boot)** and **React (Vite/Next.js)**
 - ☁️ Deploying and managing applications with **AWS**, **Azure**, **Docker**, and **Kubernetes**
