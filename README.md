@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Viraj Lakshitha Bandara</h1>
-<h3 align="center">Senior Software Engineer | Backend & Architecture | MSc Big Data (Reading)</h3>
+<h3 align="center">Lead Engineer - Backend & DevOps | Backend & Architecture | MSc Big Data (Reading)</h3>
 
 <p align="center">
   <a href="https://virajbandara.com" target="_blank">🌐 Portfolio</a> •
