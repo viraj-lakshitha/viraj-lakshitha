@@ -1,9 +1,9 @@
-<h1 align="center">Hey there 👋, I'm Viraj Lakshitha Bandara</h1>
+<h1 align="center">Viraj Lakshitha Bandara</h1>
 
 <h3 align="center">Lead Engineer · Backend, DevOps & Cloud Architecture</h3>
 
 <p align="center">
-  <em>MSc in Big Data Analytics (Reading) · Builder of scalable SaaS · Mentor to aspiring engineers</em>
+  MSc (Distinction) · BEng (First Class Honours) · Toronto, Canada
 </p>
 
 <p align="center">
@@ -14,72 +14,78 @@
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a Lead Engineer who loves building scalable SaaS products that make life easier for users and teams. From asynchronous, event-driven systems to fast, reliable CI/CD pipelines and cloud-native deployments, I care about software that just works, and keeps working as it grows.
+Full-stack engineer with 5 years of experience designing systems that run reliably at production scale across fintech and AI-driven SaaS platforms. I focus on asynchronous event-driven architecture, cloud infrastructure and strong engineering standards, taking ideas from design through to delivery.
 
-- 🔧 Designing and architecting backend systems with **Node.js (NestJS)** and **Java (Spring Boot)**, paired with **React (Vite / Next.js)** frontends
-- ☁️ Deploying and operating workloads on **AWS**, **Azure**, **Docker** and **Kubernetes**
-- 🔁 Automating delivery with **CI/CD**, **Bitbucket Pipelines**, **Jenkins** and more
-- 🧠 Currently pursuing an **MSc in Big Data Analytics**
-- 🤝 Mentoring aspiring engineers and helping teams level up their engineering practices
-- 📊 Deeply interested in **cloud computing**, **big data** and **serverless architecture**
+## Impact at a Glance
 
----
+| Metric | Result |
+|---|---|
+| **API uptime** | 99.9% across production services |
+| **Event volume** | 2M+ log events/day, peaking at 83 req/sec |
+| **Background jobs** | 11,000+ jobs/day (email campaigns, AI agent workflows, lead outreach) |
+| **Infrastructure cost** | 20% reduction via Azure migration, MongoDB Atlas and Terraform |
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Backend**
+**Languages & Frameworks**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+**Data & Messaging**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
+
+**Practices:** Microservices · Event-driven architecture · REST API design · OAuth2/JWT · Infrastructure as Code · Observability (Kibana, SonarQube) · Incident response
+
+## Education & Research
+
+- **MSc in Big Data Analytics**, Robert Gordon University
+- **BEng (Hons) Software Engineering, First Class Honours**, University of Westminster, London, UK
+
+**Publications**
+
+- *METANO: Metal-Aware InChI-to-IUPAC Transformer with Neuro-Symbolic Oversight* (2025). A hybrid neuro-symbolic framework that improved Top-1 accuracy for inorganic compounds from 0.14 to 0.378. Co-authored with a supervised final-year student. Accepted at a peer-reviewed conference; IEEE publication pending.
+- *An Ontological Approach for Understanding Animal Diseases and Their Symptoms* (2023). IEEE 3rd International Conference on Electrical, Computing, Communications and Mechatronics Engineering, IEEE Xplore.
+
+## Teaching & Mentorship
+
+External Visiting Lecturer at the Informatics Institute of Technology (IIT Campus) since May 2024, supervising final-year BEng and BSc students at the University of Westminster.
+
+## Let's Connect
+
+- **Website:** [virajbandara.com](https://virajbandara.com)
+- **LinkedIn:** [viraj-lakshitha](https://linkedin.com/in/viraj-lakshitha)
+- **Email:** [inforviraj@gmail.com](mailto:inforviraj@gmail.com)
+- **GitHub:** [viraj-lakshitha](https://github.com/viraj-lakshitha)
 
 ---
 
-## 🎯 What I'm Focused On Right Now
-
-| | |
-|---|---|
-| 🏗️ **Building** | Scalable, asynchronous SaaS architectures |
-| 📚 **Learning** | Big data analytics, distributed processing and serverless patterns |
-| 🌱 **Exploring** | Cloud-native tooling and smarter delivery pipelines |
-| 💬 **Ask me about** | Backend architecture, DevOps, CI/CD, cloud deployments |
-
----
-
-## 📬 Let's Connect
-
-I'm always happy to chat about engineering, architecture, mentoring or collaboration.
-
-- 📧 **Email:** [inforviraj@gmail.com](mailto:inforviraj@gmail.com)
-- 🌐 **Website:** [virajbandara.com](https://virajbandara.com)
-- 💼 **LinkedIn:** [viraj-lakshitha](https://linkedin.com/in/viraj-lakshitha)
-- 👨‍💻 **GitHub:** [viraj-lakshitha](https://github.com/viraj-lakshitha)
-
----
-
-## ⚡ Fun Fact
-
-I drink code like coffee, and coffee like water ☕🚀
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viraj-lakshitha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<p align="center"><em>I drink code like coffee, and coffee like water.</em></p>
