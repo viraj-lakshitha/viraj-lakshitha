@@ -24,7 +24,7 @@ Full-stack engineer with 5 years of experience designing systems that run reliab
 |---|---|
 | **API uptime** | 99.9% across production services |
 | **Event volume** | 2M+ log events/day, peaking at 83 req/sec |
-| **Background jobs** | 11,000+ jobs/day (email campaigns, AI agent workflows, lead outreach) |
+| **Background jobs** | 11,000+ jobs/day |
 | **Infrastructure cost** | 20% reduction via Azure migration, MongoDB Atlas and Terraform |
 
 ## Tech Stack
